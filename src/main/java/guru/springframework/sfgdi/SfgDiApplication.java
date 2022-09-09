@@ -8,7 +8,6 @@ import org.springframework.context.annotation.ComponentScan;
 
 import java.sql.SQLOutput;
 
-@ComponentScan(basePackages = {"guru.springframework.sfgdi", "com.springframework.pets"})
 @SpringBootApplication
 public class SfgDiApplication {
 
